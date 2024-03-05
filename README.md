@@ -1,5 +1,4 @@
 ## Demo
 Demo for the Github Repos.
-
-Adding the Line.
+Adding Line.
 Adding another line in the repo.
